@@ -8,7 +8,10 @@ import { useToast } from "@/components/ui/use-toast";
 import { Card } from "@/components/ui/card";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui/dialog";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
+<<<<<<< HEAD
 import { Input } from "@/components/ui/input";
+=======
+>>>>>>> 15adf6996da3db6be41e2b86735854fe1dee8109
 
 // Mock data for contacts
 const mockContacts = [
